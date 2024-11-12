@@ -1,0 +1,84 @@
+<libraries>
+  <library
+      name="D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\e7e478fb308b36e3ccbe142b5487fb49\transformed\out\jars\classes.jar;D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\e7e478fb308b36e3ccbe142b5487fb49\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\e7e478fb308b36e3ccbe142b5487fb49\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name=":arcore_client:@aar"
+      jars="C:\Users\patel\.gradle\caches\transforms-3\5bb704542cba3570043c1ca9bf4fbace\transformed\arcore_client\jars\classes.jar"
+      resolved=":arcore_client:"
+      folder="C:\Users\patel\.gradle\caches\transforms-3\5bb704542cba3570043c1ca9bf4fbace\transformed\arcore_client"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":ARPresto:@aar"
+      jars="C:\Users\patel\.gradle\caches\transforms-3\a0f4214eecd94e74cb6fd10bed3e1f81\transformed\ARPresto\jars\classes.jar"
+      resolved=":ARPresto:"
+      folder="C:\Users\patel\.gradle\caches\transforms-3\a0f4214eecd94e74cb6fd10bed3e1f81\transformed\ARPresto"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":UnityARCore:@aar"
+      jars="C:\Users\patel\.gradle\caches\transforms-3\9aa7efe4d37fd8aaa035c14589dc040a\transformed\UnityARCore\jars\classes.jar"
+      resolved=":UnityARCore:"
+      folder="C:\Users\patel\.gradle\caches\transforms-3\9aa7efe4d37fd8aaa035c14589dc040a\transformed\UnityARCore"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":unityandroidpermissions:@aar"
+      jars="C:\Users\patel\.gradle\caches\transforms-3\942592b881e85bb2d9a4b9fd85d0e97b\transformed\unityandroidpermissions\jars\classes.jar"
+      resolved=":unityandroidpermissions:"
+      folder="C:\Users\patel\.gradle\caches\transforms-3\942592b881e85bb2d9a4b9fd85d0e97b\transformed\unityandroidpermissions"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\fc1ce9280ef8b94eb2d8d0e2e7eb65f1\transformed\out\jars\classes.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\fc1ce9280ef8b94eb2d8d0e2e7eb65f1\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

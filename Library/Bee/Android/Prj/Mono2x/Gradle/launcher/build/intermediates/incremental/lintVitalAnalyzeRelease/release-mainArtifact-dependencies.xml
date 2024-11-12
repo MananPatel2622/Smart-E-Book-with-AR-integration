@@ -1,0 +1,27 @@
+<dependencies>
+  <compile
+      roots="D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release">
+    <dependency
+        name="D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release,__local_aars__:D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,:arcore_client:@aar,:ARPresto:@aar,:UnityARCore:@aar,:unityandroidpermissions:@aar,D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:xrmanifest.androidlib::release">
+    <dependency
+        name="D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"/>
+    <dependency
+        name=":arcore_client:@aar"/>
+    <dependency
+        name=":ARPresto:@aar"/>
+    <dependency
+        name=":UnityARCore:@aar"/>
+    <dependency
+        name=":unityandroidpermissions:@aar"/>
+    <dependency
+        name="D:\s\sem 7\arvr\ar\demo ar2\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="Gradle.unityLibrary:xrmanifest.androidlib"/>
+  </package>
+</dependencies>

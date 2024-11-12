@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 3ece794adbac81f47a566eaf83440be3
+  - enabled: 0
+    path: Assets/Scenes/Mars.unity
+    guid: 35fcbd719a55a3347869962461d328ba
+  - enabled: 1
+    path: Assets/Scenes/Earth.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Jupiter.unity
+    guid: 435af5785102c8a4c8ca26ad8614a27e
+  - enabled: 0
+    path: Assets/Scenes/Mercury.unity
+    guid: 87b5fcbbcf9aadf43a33cf507fbf6889
+  - enabled: 0
+    path: Assets/Scenes/Neptune.unity
+    guid: 1a2f17b31fae81241b8fc26b0c4b0cb7
+  - enabled: 0
+    path: Assets/Scenes/Saturn.unity
+    guid: b8080b0af5125b74db636fa41f5336ca
+  - enabled: 0
+    path: Assets/Scenes/Uranus.unity
+    guid: 09f2dc944be5a414681ba32257c7cd91
+  - enabled: 1
+    path: Assets/Scenes/Venus.unity
+    guid: dec9b6c32c1079843a9e2a0773913a7f
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 701bfce7e0255894980e86fc52eb5198, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 4f8dbdf2a66d09641ad3e388680df930, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5fd1c985103bd4c41840e3a47ece9a2c, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c719b8b5635a7244991d84ef9c521666, type: 2}
